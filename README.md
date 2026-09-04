@@ -2,20 +2,18 @@
 
 ### Digital Solutions Architect
 
-Designing reusable digital solutions focused on WordPress, Automation, Artificial Intelligence and Data Visualization.
-
 ---
 
 ## About Me
 
-I design and develop reusable digital ecosystems for educational and institutional organizations.
+I design and develop digital solutions that combine software architecture, automation, data visualization and artificial intelligence to improve institutional processes and knowledge management.
 
 My work focuses on:
 
-- WordPress Architecture
-- Plugin Development
+- Software Architecture
+- WordPress Ecosystem Development
 - Process Automation
-- Artificial Intelligence
+- Artificial Intelligence Integration
 - Data Visualization
 - Digital Transformation
 
@@ -25,9 +23,9 @@ My work focuses on:
 
 ### Nexus Ecosystem
 
-A modular ecosystem of reusable WordPress components designed to accelerate digital projects.
+A modular ecosystem of reusable components designed to accelerate the development of digital solutions for WordPress and institutional platforms.
 
-Current repositories:
+Current repositories include:
 
 - Nexus Theme
 - OIID Explorer
@@ -35,11 +33,19 @@ Current repositories:
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### Nexus Theme
+
+A lightweight WordPress framework designed around a plugin-first architecture, reusable components and long-term maintainability.
 
 ### OIID Explorer
 
-Interactive visualization plugin that transforms institutional JSON datasets into dashboards, charts and knowledge exploration interfaces.
+An interactive visualization plugin that transforms institutional JSON datasets into dashboards, charts and knowledge exploration interfaces.
+
+### OIID CSV to JSON
+
+A lightweight utility that automates the transformation of CSV datasets into structured JSON files for visualization projects.
 
 ---
 
@@ -50,27 +56,35 @@ Interactive visualization plugin that transforms institutional JSON datasets int
 - JavaScript
 - HTML5
 - CSS3
-- Chart.js
-- Google Apps Script
+- Python
 - Git
 - GitHub
-- Python
+- Chart.js
+- Google Apps Script
 - Unity
 - Adobe After Effects Scripting
 
 ---
 
-## Currently Working On
+## Current Focus
 
 - Nexus Ecosystem
-- AI-assisted workflows
-- WordPress Framework
-- Automation Tools
+- AI-assisted Workflows
+- WordPress Framework Architecture
 - Institutional Dashboards
+- Automation Tools
+
+---
+
+## Philosophy
+
+I believe technology should be modular, reusable and maintainable.
+
+My goal is to build digital ecosystems where themes, plugins and automation tools evolve independently while working together as a unified platform.
 
 ---
 
 ## Connect
 
-- LinkedIn
 - GitHub
+- LinkedIn
