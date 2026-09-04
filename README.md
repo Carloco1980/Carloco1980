@@ -1,57 +1,65 @@
 # Carlos Santander Díaz
 
-### Digital Designer & Solutions Developer
+### Digital Designer building reusable digital ecosystems
 
-Designing reusable digital ecosystems focused on WordPress, automation, AI-assisted solutions and data visualization.
+> **Design once. Reuse everywhere. Build ecosystems, not isolated solutions.**
+
+I design reusable digital ecosystems that combine WordPress, automation and data visualization to create scalable solutions for institutions, organizations and knowledge management initiatives.
 
 ---
 
-## About Me
+# About Me
 
-I design and develop reusable digital solutions that combine design, software development, automation and data visualization to improve institutional processes and knowledge management.
+I am a **Digital Designer** focused on designing and developing reusable digital ecosystems that simplify institutional processes through software, automation and data visualization.
 
-My work focuses on:
+My work combines design thinking with software development to create scalable, maintainable and reusable solutions.
 
-- Digital Solution Design
+## Areas of Focus
+
+- Digital Product Design
 - WordPress Ecosystem Development
-- Process Automation
-- AI-assisted Solutions
+- Automation Workflows
 - Data Visualization
-- Digital Transformation
+- Knowledge Visualization
+- AI-assisted Workflows
 
 ---
 
-## Current Projects
+# Nexus Ecosystem
 
-### Nexus Ecosystem
+The **Nexus Ecosystem** is a collection of reusable frameworks, themes, plugins and automation tools designed to accelerate the development of digital solutions.
 
-Nexus Ecosystem is a modular collection of reusable tools and components designed to accelerate the development of digital solutions for WordPress and institutional platforms.
+Its goal is to create modular components that can evolve independently while working together as a unified platform.
 
 Current repositories include:
 
-- Nexus Theme
-- OIID Explorer
-- OIID CSV to JSON
+- **Nexus Theme**
+- **OIID Explorer**
+- **OIID CSV to JSON**
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Nexus Theme
+## Nexus Theme
 
-A lightweight WordPress framework built around a plugin-first architecture, reusable components and long-term maintainability.
+A lightweight WordPress framework theme focused on reusable layouts, Elementor compatibility and plugin-based architecture.
 
 ### OIID Explorer
 
-An interactive WordPress plugin that transforms structured JSON datasets into dashboards, charts and visual exploration interfaces.
+An interactive knowledge visualization plugin that transforms institutional JSON datasets into dashboards, charts and visual analytics.
 
 ### OIID CSV to JSON
 
 A lightweight utility that automates the transformation of CSV datasets into optimized JSON files for visualization projects.
 
+### After Effects Automation
+
+Workflow automation scripts that accelerate educational audiovisual production and publishing processes.
+
 ---
 
-## Technologies
+# Technologies
 
 - WordPress
 - PHP
@@ -59,33 +67,45 @@ A lightweight utility that automates the transformation of CSV datasets into opt
 - HTML5
 - CSS3
 - Git
-- GitHub
 - Chart.js
+- Elementor
 - Google Apps Script
+- Adobe After Effects
 - Unity
-- Adobe After Effects Scripting
 
 ---
 
-## Current Focus
+# Current Focus
 
 - Nexus Ecosystem
 - WordPress Framework Development
-- AI-assisted Workflows
+- Knowledge Visualization
 - Institutional Dashboards
 - Process Automation
+- Reusable Digital Components
 
 ---
 
-## Development Philosophy
+# Development Philosophy
 
 I believe digital solutions should be modular, reusable and maintainable.
 
-My goal is to design ecosystems where themes, plugins and automation tools evolve independently while working together as a unified platform.
+Rather than building isolated applications, I design ecosystems where themes, plugins and automation tools evolve independently while working together as a unified platform.
+
+Every component should solve a specific problem while remaining flexible enough to become part of a larger ecosystem.
 
 ---
 
-## Connect
+# Connect
 
-- GitHub
-- LinkedIn
+**GitHub**
+
+https://github.com/Carloco1980
+
+**LinkedIn**
+
+https://www.linkedin.com/in/carlos-santander-d%C3%ADaz-1713aa302/
+
+---
+
+⭐ Thanks for visiting my profile.
