@@ -66,7 +66,6 @@ Custom automation scripts developed to accelerate educational audiovisual produc
 - CSS
 - Git
 - Chart.js
-- Elementor
 - Google Apps Script
 - Adobe After Effects
 - Unity
