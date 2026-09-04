@@ -1,19 +1,21 @@
 # Carlos Santander Díaz
 
-### Digital Solutions Architect
+### Digital Designer & Solutions Developer
+
+Designing reusable digital ecosystems focused on WordPress, automation, AI-assisted solutions and data visualization.
 
 ---
 
 ## About Me
 
-I design and develop digital solutions that combine software architecture, automation, data visualization and artificial intelligence to improve institutional processes and knowledge management.
+I design and develop reusable digital solutions that combine design, software development, automation and data visualization to improve institutional processes and knowledge management.
 
 My work focuses on:
 
-- Software Architecture
+- Digital Solution Design
 - WordPress Ecosystem Development
 - Process Automation
-- Artificial Intelligence Integration
+- AI-assisted Solutions
 - Data Visualization
 - Digital Transformation
 
@@ -23,7 +25,7 @@ My work focuses on:
 
 ### Nexus Ecosystem
 
-A modular ecosystem of reusable components designed to accelerate the development of digital solutions for WordPress and institutional platforms.
+Nexus Ecosystem is a modular collection of reusable tools and components designed to accelerate the development of digital solutions for WordPress and institutional platforms.
 
 Current repositories include:
 
@@ -37,15 +39,15 @@ Current repositories include:
 
 ### Nexus Theme
 
-A lightweight WordPress framework designed around a plugin-first architecture, reusable components and long-term maintainability.
+A lightweight WordPress framework built around a plugin-first architecture, reusable components and long-term maintainability.
 
 ### OIID Explorer
 
-An interactive visualization plugin that transforms institutional JSON datasets into dashboards, charts and knowledge exploration interfaces.
+An interactive WordPress plugin that transforms structured JSON datasets into dashboards, charts and visual exploration interfaces.
 
 ### OIID CSV to JSON
 
-A lightweight utility that automates the transformation of CSV datasets into structured JSON files for visualization projects.
+A lightweight utility that automates the transformation of CSV datasets into optimized JSON files for visualization projects.
 
 ---
 
@@ -56,7 +58,6 @@ A lightweight utility that automates the transformation of CSV datasets into str
 - JavaScript
 - HTML5
 - CSS3
-- Python
 - Git
 - GitHub
 - Chart.js
@@ -69,18 +70,18 @@ A lightweight utility that automates the transformation of CSV datasets into str
 ## Current Focus
 
 - Nexus Ecosystem
+- WordPress Framework Development
 - AI-assisted Workflows
-- WordPress Framework Architecture
 - Institutional Dashboards
-- Automation Tools
+- Process Automation
 
 ---
 
-## Philosophy
+## Development Philosophy
 
-I believe technology should be modular, reusable and maintainable.
+I believe digital solutions should be modular, reusable and maintainable.
 
-My goal is to build digital ecosystems where themes, plugins and automation tools evolve independently while working together as a unified platform.
+My goal is to design ecosystems where themes, plugins and automation tools evolve independently while working together as a unified platform.
 
 ---
 
