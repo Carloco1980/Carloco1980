@@ -1,16 +1,76 @@
-## Hi there 👋
+# Carlos Santander Díaz
 
-<!--
-**Carloco1980/Carloco1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Solutions Architect
 
-Here are some ideas to get you started:
+Designing reusable digital solutions focused on WordPress, Automation, Artificial Intelligence and Data Visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I design and develop reusable digital ecosystems for educational and institutional organizations.
+
+My work focuses on:
+
+- WordPress Architecture
+- Plugin Development
+- Process Automation
+- Artificial Intelligence
+- Data Visualization
+- Digital Transformation
+
+---
+
+## Current Projects
+
+### Nexus Ecosystem
+
+A modular ecosystem of reusable WordPress components designed to accelerate digital projects.
+
+Current repositories:
+
+- Nexus Theme
+- OIID Explorer
+- OIID CSV to JSON
+
+---
+
+## Featured Project
+
+### OIID Explorer
+
+Interactive visualization plugin that transforms institutional JSON datasets into dashboards, charts and knowledge exploration interfaces.
+
+---
+
+## Technologies
+
+- WordPress
+- PHP
+- JavaScript
+- HTML5
+- CSS3
+- Chart.js
+- Google Apps Script
+- Git
+- GitHub
+- Python
+- Unity
+- Adobe After Effects Scripting
+
+---
+
+## Currently Working On
+
+- Nexus Ecosystem
+- AI-assisted workflows
+- WordPress Framework
+- Automation Tools
+- Institutional Dashboards
+
+---
+
+## Connect
+
+- LinkedIn
+- GitHub
