@@ -1,26 +1,18 @@
-<p align="center">
-
-# NEXUS ECOSYSTEM
-
-### Design once. Reuse everywhere.
-
-</p>
-
 # Carlos Santander Díaz
 
-### Digital Designer • WordPress Ecosystem Developer
+## Digital Designer • WordPress Ecosystem Developer
 
 Building reusable digital ecosystems through design, automation and data visualization.
 
 ---
 
-## About Me
+# About Me
 
-I am a **Digital Designer** focused on creating reusable digital ecosystems that improve institutional processes through software, automation and data visualization.
+I am a Digital Designer focused on creating reusable digital ecosystems that improve institutional processes through software, automation and data visualization.
 
 My work combines design thinking with software development to create scalable, maintainable and reusable solutions.
 
-### Areas of Focus
+## Areas of Focus
 
 - Digital Product Design
 - WordPress Ecosystem Development
@@ -33,9 +25,9 @@ My work combines design thinking with software development to create scalable, m
 
 # Nexus Ecosystem
 
-The **Nexus Ecosystem** is a modular platform composed of reusable themes, plugins and automation tools that work together as a unified digital ecosystem.
+The Nexus Ecosystem is a collection of reusable frameworks, themes, plugins and automation tools designed to accelerate the development of digital solutions.
 
-Each component is designed to solve a specific problem while remaining reusable, maintainable and easy to integrate into future projects.
+Each component solves a specific problem while remaining modular, maintainable and reusable across projects.
 
 Current repositories include:
 
@@ -49,25 +41,19 @@ Current repositories include:
 
 ## 🧩 Nexus Theme
 
-Lightweight WordPress framework focused on reusable layouts, Elementor compatibility and plugin-based architecture.
-
----
+A lightweight WordPress framework focused on reusable layouts, Elementor compatibility and modular architecture.
 
 ## 📊 OIID Explorer
 
-Interactive knowledge visualization plugin that transforms institutional JSON datasets into dashboards, charts and visual analytics.
-
----
+Interactive knowledge visualization plugin that transforms institutional JSON datasets into dashboards and visual analytics.
 
 ## 🔄 OIID CSV to JSON
 
-Lightweight utility that automates the transformation of CSV datasets into optimized JSON files for visualization projects.
-
----
+Utility that automates the transformation of CSV datasets into optimized JSON files for visualization projects.
 
 ## 🎬 After Effects Automation
 
-Workflow automation scripts that accelerate educational audiovisual production and publishing processes.
+Custom automation scripts developed to accelerate educational audiovisual production through Adobe After Effects workflows.
 
 ---
 
@@ -76,8 +62,8 @@ Workflow automation scripts that accelerate educational audiovisual production a
 - WordPress
 - PHP
 - JavaScript
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Git
 - Chart.js
 - Elementor
@@ -87,52 +73,40 @@ Workflow automation scripts that accelerate educational audiovisual production a
 
 ---
 
-# Current Goals
+# Current Focus
 
-- Expanding the Nexus Ecosystem
-- Building reusable WordPress frameworks
-- Improving knowledge visualization
-- Creating automation tools for institutional workflows
+- Nexus Ecosystem
+- WordPress Framework Development
+- Digital Process Automation
+- Institutional Dashboards
+- AI-assisted Workflows
 
 ---
 
-# Development Philosophy
+# Roadmap
 
-**Design once. Reuse everywhere.**
+Current evolution of the Nexus Ecosystem.
+
+- ✅ Nexus Theme
+- ✅ OIID Explorer
+- ✅ OIID CSV to JSON
+- 🚧 Nexus Framework
+- 🚧 Nexus Components
+- 🚧 Documentation Portal
+
+---
+
+# Design Philosophy
+
+> **Design once. Reuse everywhere. Build ecosystems, not isolated solutions.**
 
 I believe digital solutions should be modular, reusable and maintainable.
 
-Rather than building isolated applications, I design ecosystems where themes, plugins and automation tools evolve independently while working together as a unified platform.
-
-Every component should solve a specific problem while remaining flexible enough to become part of a larger ecosystem.
+Rather than creating isolated applications, I design ecosystems where themes, plugins and automation tools evolve independently while working together as a unified platform.
 
 ---
 
-# Featured Repositories
+## Let's Connect
 
-## 🧩 Nexus Theme
-
-Lightweight WordPress framework for reusable digital projects.
-
----
-
-## 📊 OIID Explorer
-
-Knowledge visualization plugin for institutional data.
-
----
-
-## 🔄 OIID CSV to JSON
-
-CSV-to-JSON automation utility for visualization workflows.
-
----
-
-# Connect
-
-- GitHub: https://github.com/Carloco1980
-- LinkedIn: https://www.linkedin.com/in/carlos-santander-d%C3%ADaz-1713aa302/
-
----
-
-⭐ *Thanks for visiting my profile.*
+- GitHub
+- LinkedIn
